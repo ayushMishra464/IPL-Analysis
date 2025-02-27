@@ -13,14 +13,20 @@ The **IPL Analysis Dashboard** is a data-driven visualization project created us
 ### 1. Line Chart
 - **Purpose:** Displays trends in player strike rates over multiple IPL seasons.
 - **Details:** Different colored lines represent different years, helping analyze player performance variations over time.
+![Screenshot 2025-02-27 120811](https://github.com/user-attachments/assets/d18cb817-245a-4fd8-be44-7d7ff45e931c)
+
 
 ### 2. 100% Stacked Bar Chart
 - **Purpose:** Compares the economy rate of bowlers across IPL seasons, showing the proportional contribution of each year.
 - **Details:** Each player's economy rate is broken down by year, giving a clear view of consistency and variations in performance.
+  ![Screenshot 2025-02-27 121002](https://github.com/user-attachments/assets/023467f1-8625-4f28-bf6c-ee8e4f36dabc)
+
 
 ### 3. Treemap
 - **Purpose:** Represents the distribution of players among IPL teams for the 2025 season.
 - **Details:** Each team is shown as a colored block, with individual players inside, sized according to their value points.
+  ![Screenshot 2025-02-27 121134](https://github.com/user-attachments/assets/a057c72e-4ced-49d7-82b1-54e7476a6c79)
+
 
 ## Tools Used
 - **Web Scraping:** Extracted raw data from the IPL official website.
@@ -29,12 +35,6 @@ The **IPL Analysis Dashboard** is a data-driven visualization project created us
 - **Power BI:** Created an interactive dashboard with different types of charts for insights.
 
 ![Screenshot 2025-02-27 115824](https://github.com/user-attachments/assets/40b58cf5-2a55-434c-addc-731274fa528c)
-
-![Screenshot 2025-02-27 120811](https://github.com/user-attachments/assets/5ddb8ef6-da08-4746-8fa6-7563f6878aec)
-
-![Screenshot 2025-02-27 121002](https://github.com/user-attachments/assets/9efd6050-23e2-45b2-9f33-263953004748)
-
-![Screenshot 2025-02-27 121134](https://github.com/user-attachments/assets/06d406c8-0ac4-497c-8d19-22ccfb475894)
 
 
 
