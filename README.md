@@ -28,6 +28,14 @@ The **IPL Analysis Dashboard** is a data-driven visualization project created us
 - **SQL:** Processed and structured the data efficiently before visualization.
 - **Power BI:** Created an interactive dashboard with different types of charts for insights.
 
-  ![Screenshot 2025-02-27 115824](https://github.com/user-attachments/assets/40b58cf5-2a55-434c-addc-731274fa528c)
+![Screenshot 2025-02-27 115824](https://github.com/user-attachments/assets/40b58cf5-2a55-434c-addc-731274fa528c)
+
+![Screenshot 2025-02-27 120811](https://github.com/user-attachments/assets/5ddb8ef6-da08-4746-8fa6-7563f6878aec)
+
+![Screenshot 2025-02-27 121002](https://github.com/user-attachments/assets/9efd6050-23e2-45b2-9f33-263953004748)
+
+![Screenshot 2025-02-27 121134](https://github.com/user-attachments/assets/06d406c8-0ac4-497c-8d19-22ccfb475894)
+
+
 
 
